@@ -1,4 +1,4 @@
-# WaiterApp (Web)
+# WaiterApp (Web Client)
 
 Web client of the WaiterApp, an app made to help waiters to manage orders. This dashboard enables you to manage order statuses, remove orders, and receive real-time updates on new orders via WebSockets.
 
